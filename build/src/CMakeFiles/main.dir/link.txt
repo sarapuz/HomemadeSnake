@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/game.cpp.o CMakeFiles/main.dir/world.cpp.o CMakeFiles/main.dir/snake.cpp.o CMakeFiles/main.dir/playing_state.cpp.o CMakeFiles/main.dir/aux_states.cpp.o  -o main -rdynamic -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 
