@@ -1,7 +1,0 @@
-/home/sarapuz/Documents/Objektno/state-sarapuz/build/CMakeFiles/test.dir
-/home/sarapuz/Documents/Objektno/state-sarapuz/build/CMakeFiles/edit_cache.dir
-/home/sarapuz/Documents/Objektno/state-sarapuz/build/CMakeFiles/rebuild_cache.dir
-/home/sarapuz/Documents/Objektno/state-sarapuz/build/src/CMakeFiles/test.dir
-/home/sarapuz/Documents/Objektno/state-sarapuz/build/src/CMakeFiles/rebuild_cache.dir
-/home/sarapuz/Documents/Objektno/state-sarapuz/build/src/CMakeFiles/edit_cache.dir
-/home/sarapuz/Documents/Objektno/state-sarapuz/build/src/CMakeFiles/main.dir
